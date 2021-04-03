@@ -1,6 +1,6 @@
 # counter
 
-A new Flutter project.
+First Project Example in Flutter.
 
 ## Getting Started
 
