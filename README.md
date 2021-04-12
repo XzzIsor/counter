@@ -1,6 +1,6 @@
 # counter
 
-First Project Example in Flutter.
+A counter example in Flutter
 
 ## Getting Started
 
